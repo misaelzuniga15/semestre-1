@@ -82,7 +82,7 @@ def main():
     size = house_size(size)
     
     #compute calculations
-    total = calculaton(type_cleaning, size, total)
+    total = calculation(type_cleaning, size, total)
     
     #print findings
     statement(type_cleaning, size, total)
